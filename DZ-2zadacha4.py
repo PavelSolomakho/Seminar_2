@@ -8,9 +8,9 @@ with open('task.txt', 'w') as data:
     """'a' – открытие для добавления данных"""
     """'w' - окрытие для записи данных"""
     data.write('0\n')
-    data.write('1\n')
-    data.write('5\n')
-    data.write('8\n')
+    data.write('2\n')
+    data.write('4\n')
+    data.write('7\n')
     data.write('10\n')
 
 
